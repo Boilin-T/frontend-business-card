@@ -38,6 +38,10 @@ p {
   padding: 0 12px;
 }
 
+.row {
+  display: flex;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
